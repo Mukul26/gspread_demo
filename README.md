@@ -7,7 +7,10 @@ Open a spreadsheet by title, key or url.
 Read, write, and format cell ranges.
 Sharing and access control.
 Batching updates.
+
 Installation
 pip install gspread
-Requirements: Python 3+.
+
+Requirements: 
+Python 3+.
 
